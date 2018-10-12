@@ -1,2 +1,2 @@
-# vote_contract
+# vote contract
 vote contract by Solidity
